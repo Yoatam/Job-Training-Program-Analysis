@@ -75,5 +75,9 @@ To estimate the **Average Treatment Effect (ATE)**, I applied both statistical a
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+2. **Install required Python packages:**
+   ```bash
+   pip install -r requirements.txt
+
 
   📁 Note: The dataset lalonde.csv is included for full reproducibility.
